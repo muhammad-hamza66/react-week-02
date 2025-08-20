@@ -1,8 +1,25 @@
 # week-02
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React Learning – Week 2
+✅ Topics Covered
 
-Currently, two official plugins are available:
+Folder Structure
+
+Learned how React projects are organized (src, public, components, etc.).
+
+Props
+
+Passing data between components using props.
+
+Using CSS with React
+
+Styling components with external CSS files.
+
+State
+
+Managing dynamic data using useState hook.
+
+📌 This week focused on building a strong foundation in component organization, styling, and data handling in React.
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
